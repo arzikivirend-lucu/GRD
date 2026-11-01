@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
+    "adm-zip": "^0.5.16",
     "dotenv": "^17.4.2",
     "electron-updater": "^6.3.9",
     "express": "^4.18.2",
@@ -25,7 +26,7 @@
   "build": {
     "appId": "com.binaryglobalnetwork.garudaai",
     "productName": "Garuda AI",
-    "copyright": "\u00a9 2026 Binary Global Network",
+    "copyright": "© 2026 Binary Global Network",
     "icon": "public/logo.ico",
     "artifactName": "Garuda-AI-Setup.exe",
     "publish": {

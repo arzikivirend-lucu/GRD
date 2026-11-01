@@ -1,0 +1,14 @@
+{
+  "appId": "com.binaryglobalnetwork.garudaai",
+  "appName": "Garuda AI",
+  "webDir": "www",
+  "server": {
+    "url": "https://chatgpt.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0c0505",
+    "allowMixedContent": false
+  }
+}

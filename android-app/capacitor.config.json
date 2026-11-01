@@ -1,0 +1,13 @@
+{
+  "appId": "com.binaryglobalnetwork.garudaai",
+  "appName": "Garuda AI",
+  "webDir": "www",
+  "server": {
+    "url": "https://garuda-ai.vercel.app",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0c0505"
+  }
+}
